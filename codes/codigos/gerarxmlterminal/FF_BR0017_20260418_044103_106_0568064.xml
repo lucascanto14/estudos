@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<ufoanalyzer_record version="200" clip_name="FF_BR0017_20260418_044103_106_0568064" y="2026" mo="4" d="18" observer="0" cam="BR0017" lens="0" cap="0" u2="0" ua="0" memo="0" az="0" ev="0" rot="0" vx="0" yx="0" dx="0" dy="0" k4="0" k3="0" k2="0" atc="0" BVF="0" maxLev="0" maxMag="0" minLev="0" mimMag="0" dl="0" leap="0" pixs="0" rstar="0" ddega="0" ddegm="0" errm="0" Lmrgn="0" Rmrgn="0" Dmrgn="0" Umrgn="0" h="04" m="41" s="03" lid="BR0017">
+    <ua2_objects>
+        <ua2_object fs="0" fe="0" fN="0" sN="0" sec="0" av="0" pix="0" bmax="0" mag="0" cdeg="0" cdegmax="0" io="0" raP="0" dcP="0" av1="0" x1="0" y1="0" x2="0" y2="0" az1="0" ev1="0" az2="0" ev2="0" azm="0" evm="0" ra1="0" dc1="0" ra2="0" dc2="0" ram="0" dcm="0" class="0" m="0" dr="0" dv="0" Vo="0" lng1="0" lat1="0" h1="0" dist1="0" gd1="0" azL1="0" evL1="0" lng2="0" lat2="0" h2="0" dist2="0" gd2="0" len="0" GV="0" rao="0" dco="0" Voo="0" rat="0" dct="0" memo="0"/>
+        
+    
+        <ua2_fdata2 fno="0009.6671" ra="183.214204" dec="+02.308097" az="291.694589" ev="+37.133876" mag="000064"/>
+        <ua2_fdata2 fno="0010.6752" ra="183.023739" dec="+02.449606" az="291.723570" ev="+36.897722" mag="000065"/>
+        <ua2_fdata2 fno="0011.6833" ra="182.844205" dec="+02.618196" az="291.788374" ev="+36.656978" mag="000066"/>
+        <ua2_fdata2 fno="0012.6891" ra="182.691104" dec="+02.690176" az="291.766869" ev="+36.488682" mag="000065"/>
+        <ua2_fdata2 fno="0013.6978" ra="182.495366" dec="+02.863676" az="291.826164" ev="+36.231561" mag="000066"/>
+        <ua2_fdata2 fno="0014.7049" ra="182.329399" dec="+02.997125" az="291.861705" ev="+36.020577" mag="000066"/>
+    </ua2_objects>
+</ufoanalyzer_record>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<ufoanalyzer_record version="200">
+  <event clip_name="FF_BR0017_20260418_042053_902_0537856" y="2026" mo="04" d="18" h="04" m="20" s="53" lid="BR0017" cam="BR0017" lng="-45.189701" lat="-22.811001" alt="549.000000" observer="D._MOURAO" lens="Fujinon_F1.3" cap="Easycap" u2="224" ua="244" memo="">
+    <ua2_fdata2 fno="0199" ra="154.633525" dec="-18.357412" az="258.968159" ev="+23.668419" mag="000068"/>
+    <ua2_fdata2 fno="0200" ra="154.551071" dec="-18.076790" az="259.234646" ev="+23.509470" mag="000072"/>
+    <ua2_fdata2 fno="0201" ra="154.301208" dec="-17.275988" az="259.986395" ev="+23.039207" mag="000073"/>
+    <ua2_fdata2 fno="0202" ra="154.193775" dec="-17.009774" az="260.227058" ev="+22.859404" mag="000074"/>
+  </event>
+</ufoanalyzer_record>
